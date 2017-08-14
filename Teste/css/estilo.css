@@ -37,3 +37,15 @@ div{
 ContainerPrincipal{
     align-content: center;
 }
+
+.cabecalho-rodape {
+
+    background-color: navy;
+    color: white;
+}
+
+.cabecalho-rodape2 {
+
+    background-color: navy;
+    color: white;
+};
