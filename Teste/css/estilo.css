@@ -1,0 +1,39 @@
+body{
+	background-color: white;
+    font-style: "verdana";
+    font-size: "20"; 
+}
+
+img{
+    width: 160 ;
+    height :260;
+}
+
+div{
+    align-content: center;
+}
+
+#Container1{
+    display: inline-block;
+    align-content: center;
+}
+
+#Container2{
+    display: inline-block;
+    align-content: center;
+}
+
+#Container3{
+    display: inline-block;
+    align-content: center;
+}
+
+#Container4{
+    display: inline-block;
+    align-content: center;
+}
+
+
+ContainerPrincipal{
+    align-content: center;
+}
